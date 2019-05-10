@@ -10,7 +10,7 @@ sidebar:
 
     # Profile information
     name: SangGi Do
-    tagline: Hardware Engineer at Samsung Electronics
+    tagline: Hardware Engineer at Samsung Electronics.
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -82,7 +82,7 @@ education:
 experiences:
     - role: Hardware Engineer
       time: Dec. 2018 - Present
-      company: Samsung Electronics, Rep. of Korea
+      company: Samsung Electronics., Rep. of Korea
       details: |
         Chip Design
 
