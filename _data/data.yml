@@ -161,7 +161,7 @@ publications:
         authors: Seungwon Kim, SangGi Do, and Seokhyeong Kang
         conference: Design Automation Conference(DAC), 2017
 
-      - title: Co-optimization of clock skew, routing and data path layout
+      - title: Skew control methodology for useful-skew implementation
         authors: SangGi Do, Seungwon Kim, and Seokhyeong Kang
         conference: International SoC Design Conference(ISOCC), 2016
 
