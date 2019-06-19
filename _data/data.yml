@@ -38,10 +38,10 @@ sidebar:
       - item: Electrical Design Optimization
         link:
 
-      - item: Place & Route
+      - item: Functional Verification
         link:
 
-      - item: VLSI Physical Design
+      - item: Place & Route
         link:
 
 career-profile:
@@ -153,9 +153,13 @@ publications:
 #      bibendum fringilla a eu lectus.
 
     papers:
+      - title: Compact Topology-aware Bus Routing for Design Regularity
+        authors: Daeyeon Kim, SangGi Do, Sung-Yun Lee, and Seokhyeong Kang
+        conference: IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019
+
       - title: Fence-Region Aware Mixed-Height Standard Cell Legalization
         authors: SangGi Do, Mingyu Woo, and Seokhyeong Kang
-        conference: Great Lakes Symposium on VLSI(GLSVLSI), 2019
+        conference: ACM Great Lakes Symposium on VLSI(GLSVLSI), 2019
 
       - title: Fast Predictive Useful Skew Methodology for Timing-Driven Placement Optimization
         authors: Seungwon Kim, SangGi Do, and Seokhyeong Kang
@@ -169,29 +173,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Innovus
+      - name: Verilog & System Verilog
+        level: 95%
+
+      - name: C++ & Tcl
+        level: 90%
+
+      - name: NC-Verilog / Xcelium
+        level: 90%
+
+      - name: HSPICE
         level: 80%
 
-      - name: NC-Verilog
-        level: 80%
+      - name: Innovus
+        level: 75%
 
       - name: Design Compiler
         level: 75%
 
       - name: IC Compiler II
-        level: 90%
+        level: 75%
 
       - name: Prime Time
-        level: 80%
-
-      - name: HSPICE
-        level: 70%
-
-      - name: C++ & Tcl
-        level: 85%
-
-      - name: Verilog
-        level: 70%
+        level: 755%
 
       - name: Photoshop & Light Room
         level: 85%
