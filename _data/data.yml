@@ -1,5 +1,4 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
+
 #
 #
 
@@ -17,7 +16,7 @@ sidebar:
     email: dosanggi@gmail.com
     phone: +82 10 3239 2795
     website: sanggido.github.io #do not add http://
-    #linkedin: sanggido
+    linkedin: sanggido
     facebook: 
     github: sanggido
     gitlab:
