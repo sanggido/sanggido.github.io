@@ -1,5 +1,4 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
+
 #
 #
 
@@ -17,7 +16,7 @@ sidebar:
     email: dosanggi@gmail.com
     phone: +82 10 3239 2795
     website: sanggido.github.io #do not add http://
-    #linkedin: sanggido
+    linkedin: sanggido
     facebook: 
     github: sanggido
     gitlab:
@@ -38,16 +37,16 @@ sidebar:
       - item: Electrical Design Optimization
         link:
 
-      - item: Place & Route
+      - item: Functional Verification
         link:
 
-      - item: VLSI Physical Design
+      - item: Place & Route
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I'm a research engineer at Samsung Electronics. I majored in VLSI/CAD algorithms, especially
+      I'm a hardware engineer at Samsung Electronics. I majored in VLSI/CAD algorithms, especially
       focusing on the circuit physical design such as placement or routing. I got M.Sc and B.Sc degree
       from UNIST, Ulsan. My advisor professor is Seokhyeong Kang at POSTECH, Pohang. I use C++ for write a program.
       I'm interested in physical design optimization and circuit design. 
@@ -131,7 +130,7 @@ projects:
 
       - title: ICCAD 2017 Contest
         link: "http://cad-contest-2017.el.cycu.edu.tw/CAD-contest-at-ICCAD2017"
-        tagline: "EDA programming contest at ICCAD 2017. < Topic: Multi-Deck Legalization >"
+        tagline: "EDA programming contest at ICCAD 2017./n < Topic: Multi-Deck Legalization >"
 
       - title: ICCAD 2015 Contest
         link: "#"
@@ -153,15 +152,19 @@ publications:
 #      bibendum fringilla a eu lectus.
 
     papers:
+      - title: Compact Topology-aware Bus Routing for Design Regularity
+        authors: Daeyeon Kim, SangGi Do, Sung-Yun Lee, and Seokhyeong Kang
+        conference: IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019
+
       - title: Fence-Region Aware Mixed-Height Standard Cell Legalization
         authors: SangGi Do, Mingyu Woo, and Seokhyeong Kang
-        conference: Great Lakes Symposium on VLSI(GLSVLSI), 2019 (To be appear)
+        conference: ACM Great Lakes Symposium on VLSI(GLSVLSI), 2019
 
       - title: Fast Predictive Useful Skew Methodology for Timing-Driven Placement Optimization
         authors: Seungwon Kim, SangGi Do, and Seokhyeong Kang
         conference: Design Automation Conference(DAC), 2017
 
-      - title: Co-optimization of clock skew, routing and data path layout
+      - title: Skew control methodology for useful-skew implementation
         authors: SangGi Do, Seungwon Kim, and Seokhyeong Kang
         conference: International SoC Design Conference(ISOCC), 2016
 
@@ -169,29 +172,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Innovus
+      - name: Verilog & System Verilog
+        level: 95%
+
+      - name: C++ & Tcl
+        level: 90%
+
+      - name: NC-Verilog / Xcelium
+        level: 90%
+
+      - name: HSPICE
         level: 80%
 
-      - name: NC-Verilog
-        level: 80%
+      - name: Innovus
+        level: 75%
 
       - name: Design Compiler
         level: 75%
 
       - name: IC Compiler II
-        level: 90%
+        level: 75%
 
       - name: Prime Time
-        level: 80%
-
-      - name: HSPICE
-        level: 70%
-
-      - name: C++ & Tcl
-        level: 85%
-
-      - name: Verilog
-        level: 70%
+        level: 75%
 
       - name: Photoshop & Light Room
         level: 85%
