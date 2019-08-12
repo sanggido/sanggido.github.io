@@ -46,10 +46,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a hardware engineer at Samsung Electronics. I majored in VLSI/CAD algorithms, especially
-      focusing on the circuit physical design such as placement or routing. I got M.Sc and B.Sc degree
-      from UNIST, Ulsan. My advisor professor is Seokhyeong Kang at POSTECH, Pohang. I use C++ for write a program.
-      I'm interested in physical design optimization and circuit design. 
+      I'm a hardware engineer at Samsung Electronics(Foundry). I majored in VLSI/CAD algorithms, especially
+      focusing on the physical design optimization such as placement or routing. I got M.Sc and B.Sc degree
+      from UNIST, Ulsan. My advisor professor is Seokhyeong Kang at POSTECH, Pohang. I use C++ for write a program 
+      and farmiliar with using Verilog & System Verilog. I'm interested in physical design optimization and circuit design. 
 
 education:
     - degree: M.Sc in Electrical Engineering
@@ -81,7 +81,7 @@ education:
 experiences:
     - role: Hardware Engineer
       time: Dec. 2018 - Present
-      company: Samsung Electronics., Rep. of Korea
+      company: Samsung Electronics.(Foundry), Rep. of Korea
       details: |
         Chip Design
 
@@ -196,8 +196,8 @@ skills:
       - name: Prime Time
         level: 75%
 
-      - name: Photoshop & Light Room
-        level: 85%
+#      - name: Photoshop & Light Room
+#        level: 85%
 
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
