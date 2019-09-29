@@ -49,7 +49,7 @@ career-profile:
       I'm a hardware engineer at Samsung Electronics(Foundry). I majored in VLSI/CAD algorithms, especially
       focusing on the physical design optimization such as placement or routing. I got M.Sc and B.Sc degree
       from UNIST, Ulsan. My advisor professor is Seokhyeong Kang at POSTECH, Pohang. I use C++ for write a program 
-      and farmiliar with using Verilog & System Verilog. I'm interested in physical design optimization and circuit design. 
+      and farmiliar with using Verilog, System Verilog, and Tcl script. I'm interested in physical design optimization and circuit design. 
 
 education:
     - degree: M.Sc in Electrical Engineering
