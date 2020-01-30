@@ -46,10 +46,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a hardware engineer at Samsung Electronics(Foundry). I majored in VLSI/CAD algorithms, especially
+      I'm a RTL design & verification engineer at Samsung Electronics(Foundry). I majored in VLSI/CAD(EDA) algorithms, especially
       focusing on the physical design optimization such as placement or routing. I got M.Sc and B.Sc degree
-      from UNIST, Ulsan. My advisor professor is Seokhyeong Kang at POSTECH, Pohang. I use C++ for write a program 
-      and farmiliar with using Verilog, System Verilog, and Tcl script. I'm interested in physical design optimization and circuit design. 
+      from UNIST, Ulsan. My advisor is prof. Seokhyeong Kang at POSTECH, Pohang. I use C++ or python for write a program 
+      and farmiliar with using Verilog, System Verilog and Tcl script. I'm interested in physical design optimization and RTL design & verification. 
 
 education:
     - degree: M.Sc in Electrical Engineering
@@ -83,7 +83,7 @@ experiences:
       time: Dec. 2018 - Present
       company: Samsung Electronics.(Foundry), Rep. of Korea
       details: |
-        Chip Design
+        RTL design & verification / Library verification
 
 #          - Bullet point
 #          - Bullet point
